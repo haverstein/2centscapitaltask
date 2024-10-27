@@ -1,4 +1,4 @@
-﻿# **README for Crypto Trading Strategy Analysis**
+﻿# **Crypto Trading Strategy Analysis**
 This README provides a comprehensive guide to implementing, testing, and optimizing a cryptocurrency trading strategy using Python. This analysis uses financial indicators, backtesting, parameter optimization, and risk management techniques to create and evaluate the effectiveness of a simple SMA crossover trading strategy, focused primarily on Bitcoin data.
 ## **Introduction**
 This project implements a trading strategy for the cryptocurrency market. The primary objectives include analyzing performance, optimizing strategy parameters, and applying basic risk management measures. The project consists of several distinct steps, allowing easy step-by-step execution and visualization in Google Colab.
